@@ -1,0 +1,25 @@
+# ===== Python 缓存 / 临时文件 =====
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+*.bak_*
+*.backup
+*~
+
+# ===== 输出产物：数据与图件不入库 =====
+*.png
+*.jpg
+*.pdf
+*.xlsx
+*.csv
+*.sac
+*.SAC
+*.npz
+*.mseed
+*.seed
+*.h5
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
